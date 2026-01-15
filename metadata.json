@@ -1,0 +1,5 @@
+{
+  "name": "HytaleForge AI",
+  "description": "AI-powered text-to-3D model generator strictly for Hytale. Create models with attachment points and animations.",
+  "requestFramePermissions": []
+}
